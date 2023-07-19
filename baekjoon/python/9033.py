@@ -4,7 +4,7 @@
 import sys
 input = sys.stdin.readline
 
-times = int(input())
+times = map(str, input().split("<"))
 
 for i in range(times):
     words_list = list(map(str, input().split()))
