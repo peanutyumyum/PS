@@ -1,3 +1,6 @@
+# 상태 : 통과
+# 어려운 점  : 오타를 고치자^^
+
 import sys
 
 input = sys.stdin.readline
